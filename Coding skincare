@@ -1,1 +1,171 @@
-
+package assignment1;
+import java.util.Scanner;
+public class skincare2 {
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+String name, phone, email, matric, product1, product2, product3, product4;
+int product_weight1, product_weight2, product_weight3, product_weight4;
+double oilc1,oilc2,oilc3,dryc1, dryc2,dryc3,mixc1,mixc2,mixc3,senc1,senc2,senc3,
+oilp1, oilp2, oilp3, dryp1, dryp2, dryp3, mixp1, mixp2, mixp3, senp1, senp2, senp3;
+Scanner sc = new Scanner (System.in);
+System.out.println("\n Welcome to UUM SKIN CARE CONSULTANTCY SYSTEM");
+System.out.println("\n---------------------------------------------------------------------\n");
+System.out.print("Please insert your name : ");
+name = sc.next();
+System.out.print("Plase enter your Matric NO. : ");
+matric = sc.next();
+System.out.print("Please insert your phone number : ");
+phone = sc.next();
+System.out.print("Please insert email address : ");
+email = sc.next();
+System.out.println("\n---------------------------------------------------\n");
+System.out.println("Hi "+name+" Welcome to UUM SKIN CARE CONSULTANCY SYSTEM !");
+System.out.println("Please check your information shown as below : ");
+System.out.println("Matric NO : "+matric);
+System.out.println("Phone Number : "+phone);
+System.out.println("Email Address : "+email);
+System.out.println("\n---------------------------------------------------\n");
+System.out.println("DO YOU ENCOUNTER THE SKIN PROBLEM AS BELOW : ");
+System.out.println("\nGroup '1' Oily Skin ");
+System.out.println("Symptoms of the Oily Skin as : "+
+"\n a) A shiny or greasy appearance."+
+"\n b) Very large or obvious pores on the skin."+
+"\n c) Skin that looks thick or rough"+
+"\n d) Occasional persistent pimples."+
+"\n e) Clogged pores and blackheads.");
+System.out.println("\nThe Skin care Consultancy advise for your Skin Problem :");
+System.out.println("• Important of hydration \n Oiliness does not mean that your face is hydrated. All skin types need hydration. "
++ "This helps to balance them, as well as maintain their natural characteristics and protective barriers. ");
+System.out.println("• Make intelligent choices in your diet.\n The better you eat, the more beautiful your skin. "
++ "Avoid fatty and fried foods because this can increase oiliness and the incidence of pimples. "
++ " \n Include more carrots, cantaloupe, and spinach in your meal - high in vitamin A and can actually slow oil production. ");
+System.out.println("\n Check the chemical contain in your Skin care product Here \n ");
+System.out.print("Please enter the Skin Care product name : ");
+product1 = sc.next();
+System.out.print("Please Enter the NET Weight of the product in gram(g) : ");
+product_weight1 = sc.nextInt();
+System.out.println("Please enter the chemical contain in gram(g) :");
+System.out.print("1. Alcohol (g) : ");
+oilc1 = sc.nextDouble();
+System.out.print("2. Glycogen (g) : ");
+oilc2 = sc.nextDouble();
+System.out.print("3. Zinc Sulfate (g) : ");
+oilc3 = sc.nextDouble();
+oilp1 = ((oilc1/product_weight1)*100);
+oilp2 = ((oilc2/product_weight1)*100);
+oilp3 = ((oilc3/product_weight1)*100);
+System.out.println("\n********************************************\n\nGroup '2' Dry Skin ");
+System.out.println("Sypmtoms of the Dry Skin as : "+
+"\n a) Dehydration "+
+"\n b) Flakes, rough, texture "+
+"\n c) Cracks in the skin "+
+"\n d) Itch "+
+"\n e) Skin feels painful, may sting or burning ");
+System.out.println("\nThe Skin care Consultancy advise for your Skin Problem :");
+System.out.println("• Moisturize \n Moisturizers provide a seal over your skin to keep water from escaping. Apply moisturizer several times a day and after bathing. ");
+System.out.println("• Use warm water and limit bath time.\n Long showers or baths and hot water remove oils from your skin. "
++ "Limit your bath or shower to five to 10 minutes and use warm, not hot, water.");
+System.out.println("• Avoid harsh, drying soaps.\n It's best to use cleansing creams or gentle skin cleansers and bath or shower gels with added moisturizers. "
++ "Choose mild soaps that have added oils and fats. \n Avoid deodorant and antibacterial detergents, fragrance, and alcohol.");
+System.out.println("\n Check the chemical contain in your Skin care product Here \n ");
+System.out.print("Please enter the Skin Care product name : ");
+product2 = sc.next();
+System.out.print("Please Enter the NET Weight of the product in gram(g) : ");
+product_weight2 = sc.nextInt();
+System.out.println(" Please enter the chemical contain in gram(g) :");
+System.out.print("1. Alcohol (g) : ");
+dryc1 = sc.nextDouble();
+System.out.print("2. Surcose (g) : ");
+dryc2 = sc.nextDouble();
+System.out.print("3. Magnesium Sulfate (g) : ");
+dryc3 = sc.nextDouble();
+dryp1 = ((dryc1/product_weight2)*100);
+dryp2 = ((dryc2/product_weight2)*100);
+dryp3 = ((dryc3/product_weight2)*100);
+System.out.println("\n********************************************\n\nGroup '3' Mix/Combination Skin ");
+System.out.println("Sypmtoms of the Mix Skin as : "+
+"\n a) Having the oily and dry skin spots "+
+"\n b) Experience Mild breakouts and dryness at the same time "+
+"\n c) Have larger pore on nose, chin, and forehead "+
+"\n d) Skin get oiler in summer, drier in winter ");
+System.out.println("\nThe Skin care Consultancy advise for your Skin Problem :");
+System.out.println("• Use the gentle facial cleanser \n Your skin’s surface becomes covered with dirt, excess oils, and impurities throughout the day. "
++ "Make sure to use a facial cleanser that will help mattify your \n oily T-zone without over-drying your cheeks and under-eye area. ");
+System.out.println("• Hydrate your skin. \n Regardless of your skin type, using a moisturizer is essential to keep your skin looking and feeling healthy. "
++ "\n For combination skin, your best bet is to opt for a moisturizer that’s hydrating while not feeling heavy or greasy.");
+System.out.println("\n Check the chemical contain in your Skin care product Here \n ");
+System.out.print("Please enter the Skin Care product name : ");
+product3 = sc.next();
+System.out.print("Please Enter the NET Weight of the product in gram(g) : ");
+product_weight3 = sc.nextInt();
+System.out.println(" Please enter the chemical contain in gram(g) :");
+System.out.print("1. Alcohol (g) : ");
+mixc1 = sc.nextDouble();
+System.out.print("2. Glucoside (g) : ");
+mixc2 = sc.nextDouble();
+System.out.print("3. Sodium Sulfate (g) : ");
+mixc3 = sc.nextDouble();
+mixp1 = ((mixc1/product_weight3)*100);
+mixp2 = ((mixc2/product_weight3)*100);
+mixp3 = ((mixc3/product_weight3)*100);
+System.out.println("\n********************************************\n\nGroup '4' Sensitive Skin ");
+System.out.println("Sypmtoms of the Sensitive Skin as : "+
+"\n a) Your Skin is itchy "+
+"\n b) You Feel Stinging and burning "+
+"\n c) Your Skin is dry "+
+"\n d) Get sunburn easily ");
+System.out.println("\nThe Skin care Consultancy advise for your Skin Problem :");
+System.out.println("• Cleanse your skin with micellar water \n When it comes to sensitive skin, it’s a good idea to stay away from foaming cleansers. "
++ "Instead, try micellar water, a gentle, no-rinse cleansing option. \n Micellar water is powered by tiny micelles");
+System.out.println("• Never skip out on moisturizer. \n While you may be nervous about layering on extra skin care products if you have sensitive skin, "
++ "skipping out on moisturizer shouldn’t be an option. \n Llightweight cream helps strengthen and repair skin barrier to help resist visible signs of aging that a weakened barrier can accentuate.");
+System.out.println("\n Check the chemical contain in your Skin care product Here \n ");
+System.out.print("Please enter the Skin Care product name : ");
+product4 = sc.next();
+System.out.print("Please Enter the NET Weight of the product in gram(g) : ");
+product_weight4 = sc.nextInt();
+System.out.println(" Please enter the chemical contain in gram(g) :");
+System.out.print("1. Alcohol (g) : ");
+senc1 = sc.nextDouble();
+System.out.print("2. Perfume Serum (g) : ");
+senc2 = sc.nextDouble();
+System.out.print("3. Potassium Sulfate (g) : ");
+senc3 = sc.nextDouble();
+senp1 = ((senc1/product_weight4)*100);
+senp2 = ((senc2/product_weight4)*100);
+senp3 = ((senc3/product_weight4)*100);
+System.out.println("\nPrint the Consultancy and percentage chemical contain of skin care product as below : \n\n");
+System.out.println("\t\t\t\t UUM SKIN CARE CONSULTANCY SYSTEM \n\n--------------------------------------------------------------------------------------------------------------------\n");
+System.out.println("NAME : "+name);
+System.out.println("Matric NO. : "+matric);
+System.out.println("Phone Number : "+phone);
+System.out.println("Email Address : "+email +"\n--------------------------------------------------------------------------------------------------------------------\n");
+System.out.println("Product name/Weight(g)\t\t\t\tChemical contain(g)\t\t\t\tPercentage(%)\n");
+System.out.println("--------------------------------------------------------------------------------------------------------------------\n");
+System.out.println("Group '1' Oily Skin ");
+System.out.printf("1. "+product1+"\t\t\t\t\tAlcohol(g) : "+oilc1+"\t\t\t\t%.1f\n",oilp1);
+System.out.printf(product_weight1+"g"+"\t\t\t\t\t\tGlycogen(g) : "+oilc2+"\t\t\t\t%.1f\n",oilp2);
+System.out.printf("\t\t\t\t\t\tZinc Sulfate(g) : "+oilc3+"\t\t\t\t%.1f\n",oilp3);
+System.out.println("\nGroup '2' Dry Skin ");
+System.out.printf("1. "+product2+"\t\t\t\t\tAlcohol(g) : "+dryc1+"\t\t\t\t%.1f\n",dryp1);
+System.out.printf(product_weight2+"g"+"\t\t\t\t\t\tSurcose(g) : "+dryc2+"\t\t\t\t%.1f\n",dryp2);
+System.out.printf("\t\t\t\t\t\tMagnesium Sulfate(g) : "+dryc3+"\t\t\t%.1f\n",dryp3);
+System.out.println("\nGroup '3' Mix Skin ");
+System.out.printf("1. "+product3+"\t\t\t\t\tAlcohol(g) : "+mixc1+"\t\t\t\t%.1f\n",mixp1);
+System.out.printf(product_weight3+"g"+"\t\t\t\t\t\tGlucoside(g) : "+mixc2+"\t\t\t\t%.1f\n",mixp2);
+System.out.printf("\t\t\t\t\t\tSodium Sulfate(g) : "+mixc3+"\t\t\t\t\t%.1f\n",mixp3);
+System.out.println("\nGroup '4' Sensitive Skin ");
+System.out.printf("1. "+product4+"\t\t\t\t\tAlcohol(g) : "+senc1+"\t\t\t\t%.1f\n",senp1);
+System.out.printf(product_weight4+"g"+"\t\t\t\t\t\tPerfume Serum(g) : "+senc2+"\t\t\t\t%.1f\n",senp2);
+System.out.printf("\t\t\t\t\t\tPotassium Sulfate(g) : "+senc3+"\t\t\t%.1f",senp3);
+System.out.println("\n\n--------------------------------------------------------------------------------------------------------------------\n");
+System.out.println("** NOTE !! Please check your product based on the rules below : \n");
+System.out.println("If the Percentage is higher than >=10% The chemical contain is too high !");
+System.out.println("• Pass 3/3 Chemical (%) : Certified product, most suitable, highly recommended;");
+System.out.println("• Pass 2/3 Chemical (%) : Certified Product, least suitable ;");
+System.out.println("• Pass 1/3 Chemical (%) : NOT certified product, NOT suitable;");
+System.out.println("• Pass 0/3 Chemical percentage : NOT Certified product, DO NOT USE !;");
+System.out.println("\n\n********************************************************************************************************************\n");
+System.out.println(" THANK YOU PLEASE COME AGAIN !! ");
+}
+}
