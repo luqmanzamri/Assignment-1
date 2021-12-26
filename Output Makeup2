@@ -1,0 +1,122 @@
+- TUTO :
+Welcome to System House of Makeup :
+> User
+> Tutor
+Enter your account (U/T):
+T
+--------------------------------------------
+TUTO SECTION - CALCULATION SERVICE
+--------------------------------------------
+Basically there are three service related to makeup Industries
+
+> Makeup Tutorial (Keyword - T)
+> Makeup Services (Keyword - S)
+> Makeup Tool Rent (Keyword - R)
+
+Enter Services (Keyword) :
+T
+
+--------------------------------------------
+		- MAKEUP TUTORIAL -
+
+Make up tutorial can come for 2, 3 or part of face
+For example, face, eye, lips and full makeup
+And it can come for 2, 3 or more class categories
+Let's see if we have 3 class categories
+
+--------------------------------------------
+	EYE     | Basic
+		| Intermediate
+		| Advance
+	FACE    | Basic
+		| Intermediate
+		| Advance
+	LIPS    | Basic
+		| Intermediate
+		| Advance
+	FULL    | Basic
+		| Intermediate
+		| Advance
+--------------------------------------------
+
+	 Basic		|	 Intermediate	|	Advance		
+	 RM80/Customer	|	 RM150/Customer	|	RM200/Customer		
+
+As Example....
+ If The class are registered by student They can get 20% discount
+> Basic (Keyword - B)
+> Intermediate (Keyword - I)
+> Advance (Keyword - A)
+Please enter class categories : 
+B
+ Original price : Rm 80
+ Student price : 64.0
+--------------------------------------------
+
+- SERVICE - 
+
+Welcome to System House of Makeup :
+> User
+> Tutor
+Enter your account (U/T):
+T
+--------------------------------------------
+TUTO SECTION - CALCULATION SERVICE
+--------------------------------------------
+Basically there are three service related to makeup Industries
+
+> Makeup Tutorial (Keyword - T)
+> Makeup Services (Keyword - S)
+> Makeup Tool Rent (Keyword - R)
+
+Enter Services (Keyword) :
+S
+--------------------------------------------
+		- MAKEUP SERVICE -
+
+Makeup service can come for two or more categories
+For example we have 2 categories
+> light makeup  --  RM 100
+> Heavy makeup  --  RM 150
+
+CALCULATION...
+Enter Number of customer for light makeup : 
+11
+Enter Number of customer for heavy makeup : 
+13
+Enter Distance(km) your total journey : 
+129
+Total customer for Makeup service : 24.0
+Total income for Makeup service : RM 3050.0
+Net profit budget for Makeup service : RM 3028.67
+--------------------------------------------
+
+- RENT -
+Welcome to System House of Makeup :
+> User
+> Tutor
+Enter your account (U/T):
+T
+--------------------------------------------
+TUTO SECTION - CALCULATION SERVICE
+--------------------------------------------
+Basically there are three service related to makeup Industries
+
+> Makeup Tutorial (Keyword - T)
+> Makeup Services (Keyword - S)
+> Makeup Tool Rent (Keyword - R)
+
+Enter Services (Keyword) :
+R
+--------------------------------------------
+		- MAKEUP RENT -
+
+  SET A     |  SET B
+  Face Set  |  Full set (Face, Nail, hair)
+  RM40/Day  |  RM80/Day
+
+Enter total day Set A has been rent : 
+3
+Enter total day Set B has been rent : 
+4
+Total price for makeup rent service : RM 440.0
