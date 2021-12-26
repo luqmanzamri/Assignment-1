@@ -1,1 +1,129 @@
+package assignment1;
+import java.util.Scanner;
+
+public class Assignment1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String name;
+		String IC;
+		String phoneNum;
+		String topNote;
+		String midNote;
+		String baseNote;
+		String perfumeName;
+		int size;
+		int empBottles;
+		int topNoteStr;
+		int midNoteStr;
+		int baseNoteStr;
+		double price;
+		double location;
+		double locationPrice;
+		double total;
+		double discount;
+		double pricetopnote;
+		double pricemiddlenote;
+		double pricebasenote;
+		String address;
+
+		System.out.println("    \n   Welcome to UUM Customize your perfume System \n");
+		System.out.println("===================================================\n");
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.print("Enter your name: ");
+		name = scan.next();
+		
+		System.out.print("Enter your IC number: ");
+		IC = scan.next();
+		
+		System.out.print("Enter your phone number: ");
+		phoneNum = scan.next();
+		
+		System.out.println("\n****************************************************");
+		System.out.println("Available ingredients for each note");
+		System.out.println("\n  Top Notes|  Middle Notes  | Base Notes");
+		System.out.println("-------------------------------------------");
+		System.out.println("Orange     |  Chamomile     | Cedarwood");
+		System.out.println("Neroli     |  Geranium      | Pine");
+		System.out.println("Lavender   |  Juniper       | Vetiver");
+		System.out.println("");
+		System.out.println("Price of each note for 10ml, 15ml and 20ml");
+		System.out.println("\n  Top Notes    |  Middle Notes  | Base Notes");
+		System.out.println("-------------------------------------------");
+		System.out.println("10 ml - RM 3   |  10 ml - RM 5   | 10 ml - RM 2");
+		System.out.println("15 ml - RM 4.5 |  15 ml - RM 7.5 | 15 ml - RM 3");
+		System.out.println("20 ml - RM 6   |  20 ml - RM 10  | 20 ml - RM 4");
+		
+		System.out.print("\nEnter the size of bottle in ml 10 or 15 or 20: ");
+		size = scan.nextInt();
+		
+		System.out.print("Enter the ingredient for top note: ");
+		topNote = scan.next();
+		
+		System.out.print("Enter the strength of top note; 1-lower 2-medium 3-higher: ");
+		topNoteStr = scan.nextInt();
+		
+		pricetopnote = size * 0.3 * topNoteStr;
+		
+		System.out.print("\nEnter the ingredient for middle note: ");
+		midNote = scan.next();
+		
+		System.out.print("Enter the strength of middle note; 1-lower 2-medium 3-higher: ");
+		midNoteStr = scan.nextInt();
+		
+		pricemiddlenote = size * 0.5 * midNoteStr;
+		
+		System.out.print("\nEnter the ingredient for base note: ");
+		baseNote = scan.next();
+		
+		System.out.print("Enter the strength of base note; 1-lower 2-medium 3-higher: ");
+		baseNoteStr = scan.nextInt();
+		
+		pricebasenote = size * 0.2 * baseNoteStr;
+		
+		System.out.print("Enter a name for customized perfume: ");
+		perfumeName = scan.next();
+		
+		price = pricetopnote + pricemiddlenote + pricebasenote;
+		
+		System.out.println("\n****************************************************");
+		
+		System.out.print("Enter the number of empty bottles: ");
+		empBottles = scan.nextInt();
+		discount = empBottles * 0.05 * price;
+		
+		
+		System.out.print("Enter the location; 1 for Inside UUM or 2 for Outside UUM:  ");
+		location = scan.nextDouble();
+		locationPrice = location *  2;
+		
+		System.out.print("Enter address:  ");
+		address = scan.next();
+		
+		System.out.println("\n****************************************************");
+		
+		total = (price + locationPrice) - discount;
+		
+		System.out.println("Your Customized perfume description");
+		System.out.println("Name of your perfume is " + perfumeName);
+		System.out.println("The size of perfume is "+ size + " ml");
+		System.out.println("Top note is "+ topNote);
+		System.out.println("Middle note is "+ midNote);
+		System.out.println("Base note is "+ baseNote);
+	
+		System.out.println("\n****************************************************");
+		System.out.println("\nThe total price is RM " + total);	
+		System.out.println("Thank you for ordering! The perfume will be delivered in 2 working days.");
+		
+		System.out.println("\n****************************************************");
+		
+		System.out.println("The same customized perfume will be delivered to you every month.");	
+		System.out.println("You also can change your plan by designing new perfume for next month.");
+		
+
+	}
+
+}
 
