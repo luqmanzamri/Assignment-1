@@ -1,0 +1,177 @@
+output1:
+
+*******************************************
+WELCOME TO LE'TOUCH SALON
+*******************************************
+WORKING HOUR
+Sunday : closed
+Monday - Thursday : 11 am - 9 pm
+Friday - Saturday : 10 am - 10 pm
+Please Enter Your Name: NURIN
+Please Enter Your IC: 12345678
+Please Enter Your Address: UUM, SINTOK
+Please Enter Your Phone Number: 0142529591
+Please Enter your gender: F
+PERSONAL DETAILS
+Name: NURIN
+IC: 12345678
+Address: UUM, SINTOK
+Phone Number: 142529591
+Gender : F
+Do you want to book an appointment at home(Y/N) : N
+Do you a student? Y
+Set your Time and Date : 1:00 PM 20/12
+SERVICES
+1 : Haircut
+2 : Wash & Blow
+3 : Chemical Work
+4 : Treatment
+Please Enter the number of services : 3
+Chemical Work:
+1.Colouring : RM 75
+2.Perming : RM 80
+3.Rebonding : RM 90
+4.Relaxing : RM 80
+Please Enter your choice: 2
+Perming : RM 80.0
+Price after discount : RM 60.0
+Do you want to proceed? (Y/N)Y
+******RECEIPT******
+Time and Date For Appointment:1:00 PM 20/12
+Perming : RM 60.0
+Service fee : RM 15.0
+TOTAL price to be paid : RM 75.0
+Thank you for your booking !
+ps: cancel anytime
+
+Output2:
+*******************************************
+WELCOME TO LE'TOUCH SALON
+*******************************************
+WORKING HOUR
+Sunday : closed
+Monday - Thursday : 11 am - 9 pm
+Friday - Saturday : 10 am - 10 pm
+Please Enter Your Name: NURIN
+Please Enter Your IC: 7654321
+Please Enter Your Address: UUM,SINTOK
+Please Enter Your Phone Number: 1234567
+Please Enter your gender: F
+PERSONAL DETAILS
+Name: NURIN
+IC: 7654321
+Address: UUM,SINTOK
+Phone Number: 1234567
+Gender : F
+Do you want to book an appointment at home(Y/N) : N
+Do you a student? Y
+Set your Time and Date : 5:00 PM 25/12
+SERVICES
+1 : Haircut
+2 : Wash & Blow
+3 : Chemical Work
+4 : Treatment
+Please Enter the number of services : 4
+Treatment:
+1.Scalp Treatment : RM 100
+2.Relax Treatment : RM 115
+3.Keratin Treatment : RM 150
+Please Enter your choice : 3
+Keratin Treatment : RM 150.0
+Price after discount : RM 105.0
+Do you want to proceed? (Y/N) Y
+**********RECEIPT**********
+Time and Date For Appointment :5:00 PM 25/12
+Keratin Treatment : RM 105.0
+Service fee : RM 15.0
+TOTAL price to be paid : RM 120.0
+Thank you for your booking !
+ps: cancel anytime
+
+output4:
+*******************************************
+WELCOME TO LE'TOUCH SALON
+*******************************************
+WORKING HOUR
+Sunday : closed
+Monday - Thursday : 11 am - 9 pm
+Friday - Saturday : 10 am - 10 pm
+Please Enter Your Name: NURIN
+Please Enter Your IC: 7654321
+Please Enter Your Address: UUM,SINTOK
+Please Enter Your Phone Number: 1234567
+Please Enter your gender: F
+PERSONAL DETAILS
+Name: NURIN
+IC: 7654321
+Address: UUM,SINTOK
+Phone Number: 1234567
+Gender : F
+Do you want to book an appointment at home(Y/N) : N
+Do you a student? (Y/N) N
+Set your Time and Date : 11 AM 23/12
+SERVICES
+1 : Haircut
+2 : Wash & Blow
+3 : Chemical Work
+4 : Treatment
+Please Enter the number of services : 4
+Treatment:
+1.Scalp Treatment : RM 100
+2.Relax Treatment : RM 115
+3.Keratin Treatment : RM 150
+Please Enter your choice : 2
+Relax Treatment : RM115.0
+Do you want to proceed? (Y/N) Y
+**********RECEIPT**********
+Time and Date For Appointment :11 AM 23/12
+Relax Treatment : RM 115.0
+Service fee : RM 15.0
+TOTAL price to be paid: RM 130.0
+Thank you for your booking !
+ps: cancel anytime
+
+output 5:
+*******************************************
+WELCOME TO LE'TOUCH SALON
+*******************************************
+WORKING HOUR
+Sunday : closed
+Monday - Thursday : 11 am - 9 pm
+Friday - Saturday : 10 am - 10 pm
+Please Enter Your Name: NURIN
+Please Enter Your IC: 7654321
+Please Enter Your Address: UUM,SINTOK
+Please Enter Your Phone Number: 1234567
+Please Enter your gender: F
+PERSONAL DETAILS
+Name: NURIN
+IC: 7654321
+Address: UUM,SINTOK
+Phone Number: 1234567
+Gender : F
+Do you want to book an appointment at home(Y/N): Y
+Set your Time and Date : 8 PM 28/12
+SERVICES
+1 : Haircut
+2 : Wash & Blow
+3 : Chemical Work
+4 : Treatment
+Please Enter the number of services : 4
+Treatment:
+1.Scalp Treatment : RM 100
+2.Relax Treatment : RM 115
+3.Keratin Treatment : RM 150
+Please Enter your choice : 1
+Scalp Treatment : RM100.0
+Do you want to proceed? (Y/N) Y
+**********RECEIPT**********
+Address: UUM,SINTOK
+Time and Date For Appointment :8 PM 28/12
+Scalp Treatment : RM 100.0
+Transportation fee : RM 80.0
+Total Discount : RM-27.0
+TOTAL price to be paid : RM153.0
+Thank you for your booking !
+ps: cancel anytime
+Reference
