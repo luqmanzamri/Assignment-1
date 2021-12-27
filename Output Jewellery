@@ -1,2 +1,154 @@
+=============================WELCOME TO UUM JEWELLERY STORE==================================
+lease insert customer name :ALI
+Please insert customer vip number :123465
+Please insert your customer address :UUM,Sintok
+Please insert your customer contact number(Example:601234567890) :601234567890
 
+=============================RENTING ONLY FOR TOTAL QUANTITY LESS 5 ==================================
+Please insert the name Necklaces that you wish to borrow :SKIP1013
+Please insert the quantity of Necklaces that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM101.0
+Please insert the name Earrings that you wish to borrow :SKIK1013
+Please insert the quantity of Earrings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM61.0
+Please insert the name Charms that you wish to borrow :SBLE1043
+Please insert the quantity of Charms that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM140.0
+Please insert the name Rings that you wish to borrow :SCQM1013
+Please insert the quantity of Rings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM160.0Amount need to pay :462.0
+=============================================================================================
+=============================================================================================
+=============================WELCOME TO UUM JEWELLERY STORE==================================
+=============================================================================================
+=============================================================================================
+
+Customer Name : ALI
+Customer VIP Number : 123465
+Customer Contact Number : 601234567890
+Customer Address : UUM,Sintok
+
+=============================RENTING ONLY FOR TOTAL QUANTITY LESS 5 ==================================
+=============================================================================================
+No======Name Of Jewellery====Type Of Jewellery==========Quantity of Jewellery==============Fee========Date
+1=======SKIP1013=============Necklaces==================2.0=============================RM101.0=======8.0
+2=======SKIK1013=============Earrings===================2.0=============================RM61.0=======8.0
+3=======SBLE1043=============Charms=====================2.0=============================RM140.0=======8.0
+4=======SCQM1013=============Rings======================2.0=============================RM160.0=======8.0
+Total Amount need to pay :RM462.0
+
+=============================RENTING ONLY FOR TOTAL QUANTITY MORE 5 ==================================
+Please insert the name Necklaces that you wish to borrow :SKIP
+Please insert the quantity of Necklaces that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM80.8
+Please insert the name Earrings that you wish to borrow :SKIK
+Please insert the quantity of Earrings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM48.8
+Please insert the name Charms that you wish to borrow :SBLE
+Please insert the quantity of Charms that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM112.0
+Please insert the name Rings that you wish to borrow :SCQM
+Please insert the quantity of Rings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM128.0Amount need to pay :369.6
+=============================================================================================
+=============================================================================================
+=============================WELCOME TO UUM JEWELLERY STORE==================================
+=============================================================================================
+=============================================================================================
+
+Customer Name : ALI
+Customer VIP Number : 123465
+Customer Contact Number : 601234567890
+Customer Address : UUM,Sintok
+
+=============================RENTING ONLY FOR TOTAL QUANTITY MORE 5 ==================================
+=============================================================================================
+No======Name Of Jewellery====Type Of Jewellery==========Quantity of Jewellery==============Fee========Date
+1=======SKIP=============Necklaces==================2.0=============================RM80.8=======8.0
+2=======SKIK=============Earrings===================2.0=============================RM48.8=======8.0
+3=======SBLE=============Charms=====================2.0=============================RM112.0=======8.0
+4=======SCQM=============Rings======================2.0=============================RM128.0=======8.0
+Total Amount need to pay :RM369.6
+
+=============================RETURN ONLY FOR DATE LESS 5 ==================================
+Please insert the name Necklaces that you wish to borrow :SKIP1013
+Please insert the quantity of Necklaces that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM11.0
+Please insert the name Earrings that you wish to borrow :SKIK1013
+Please insert the quantity of Earrings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM7.0
+Please insert the name Charms that you wish to borrow :SBLE1043
+Please insert the quantity of Charms that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM14.0
+Please insert the name Rings that you wish to borrow :SCQM1013
+Please insert the quantity of Rings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM16.0Amount need to pay :48.0
+=============================================================================================
+=============================================================================================
+=============================WELCOME TO UUM JEWELLERY STORE==================================
+=============================================================================================
+=============================================================================================
+
+Customer Name : ALI
+Customer VIP Number : 123465
+Customer Contact Number : 601234567890
+Customer Address : UUM,Sintok
+
+=============================RETURN ONLY FOR DATE LESS 5 ==================================
+=============================================================================================
+No======Name Of Jewellery====Type Of Jewellery==========Quantity of Jewellery==============Fee========Date
+1=======SKIP1013=============Necklaces==================2.0=============================RM11.0=======8.0
+2=======SKIK1013=============Earrings===================2.0=============================RM7.0=======8.0
+3=======SBLE1043=============Charms=====================2.0=============================RM14.0=======8.0
+4=======SCQM1013=============Rings======================2.0=============================RM16.0=======8.0
+Total Amount need to pay :RM48.0
+
+=============================RENTING ONLY FOR DATE MORE 5 ==================================
+Please insert the name Necklaces that you wish to borrow :SKIP
+Please insert the quantity of Necklaces that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM15.4
+Please insert the name Earrings that you wish to borrow :SKIK
+Please insert the quantity of Earrings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM9.8
+Please insert the name Charms that you wish to borrow :SBLE
+Please insert the quantity of Charms that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM19.6
+Please insert the name Rings that you wish to borrow :SCQM
+Please insert the quantity of Rings that you wish to borrow :2
+Please insert the dates of jewellery that you has to return :8
+Total Fee : RM22.4Amount need to pay :67.2
+=============================================================================================
+=============================================================================================
+=============================WELCOME TO UUM JEWELLERY STORE==================================
+=============================================================================================
+=============================================================================================
+
+Customer Name : ALI
+Customer VIP Number : 123465
+Customer Contact Number : 601234567890
+Customer Address : UUM,Sintok
+
+=============================RENTING ONLY FOR DATE MORE 5 ==================================
+=============================================================================================
+No======Name Of Jewellery====Type Of Jewellery==========Quantity of Jewellery==============Fee========Date
+1=======SKIP=============Necklaces==================2.0=============================RM15.4=======8.0
+2=======SKIK=============Earrings===================2.0=============================RM9.8=======8.0
+3=======SBLE=============Charms=====================2.0=============================RM19.6=======8.0
+4=======SCQM=============Rings======================2.0=============================RM22.4=======8.0
+Total Amount need to pay :RM 67.20
 
