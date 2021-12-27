@@ -1,1 +1,178 @@
 
+	Welcome to UUM SKIN CARE CONSULTANTCY SYSTEM
+
+---------------------------------------------------------------------
+
+Please insert your name : William
+Plase enter your Matric NO. : 284613
+Please insert your phone number : 0174652300
+Please insert email address : william@uum.com
+
+---------------------------------------------------
+
+Hi William Welcome to UUM SKIN CARE CONSULTANCY SYSTEM !
+Please check your information shown as below : 
+Matric NO : 284613
+Phone Number : 0174652300
+Email Address : william@uum.com
+
+---------------------------------------------------
+
+DO YOU ENCOUNTER THE SKIN PROBLEM AS BELOW : 
+
+Group '1' Oily Skin 
+Symptoms of the Oily Skin as : 
+ a) A shiny or greasy appearance.
+ b) Very large or obvious pores on the skin.
+ c) Skin that looks thick or rough
+ d) Occasional persistent pimples.
+ e) Clogged pores and blackheads.
+
+The Skin care Consultancy advise for your Skin Problem :
+•	Important of hydration 
+ Oiliness does not mean that your face is hydrated. All skin types need hydration. This helps to balance them, as well as maintain their natural characteristics and protective barriers. 
+•	Make intelligent choices in your diet.
+ The better you eat, the more beautiful your skin. Avoid fatty and fried foods because this can increase oiliness and the incidence of pimples.  
+ Include more carrots, cantaloupe, and spinach in your meal - high in vitamin A and can actually slow oil production. 
+
+ Check the chemical contain in your Skin care product Here 
+ 
+Please enter the Skin Care product name : Laneigh
+Please Enter the NET Weight of the product in gram(g) : 500
+Please enter the chemical contain in gram(g) :
+1. Alcohol (g) : 51
+2. Glycogen (g) : 50
+3. Zinc Sulfate (g) : 53
+
+********************************************
+
+Group '2' Dry Skin 
+Sypmtoms of the Dry Skin as : 
+ a) Dehydration 
+ b) Flakes, rough, texture 
+ c) Cracks in the skin 
+ d) Itch 
+ e) Skin feels painful, may sting or burning 
+
+The Skin care Consultancy advise for your Skin Problem :
+•	Moisturize 
+ Moisturizers provide a seal over your skin to keep water from escaping. Apply moisturizer several times a day and after bathing. 
+•	Use warm water and limit bath time.
+ Long showers or baths and hot water remove oils from your skin. Limit your bath or shower to five to 10 minutes and use warm, not hot, water.
+•	Avoid harsh, drying soaps.
+ It's best to use cleansing creams or gentle skin cleansers and bath or shower gels with added moisturizers. Choose mild soaps that have added oils and fats. 
+ Avoid deodorant and antibacterial detergents, fragrance, and alcohol.
+
+ Check the chemical contain in your Skin care product Here 
+ 
+Please enter the Skin Care product name : Innisfree
+Please Enter the NET Weight of the product in gram(g) : 300
+ Please enter the chemical contain in gram(g) :
+1. Alcohol (g) : 23
+2. Surcose (g) : 12
+3. Magnesium Sulfate (g) : 16
+
+********************************************
+
+Group '3' Mix/Combination Skin 
+Sypmtoms of the Mix Skin as : 
+ a) Having the oily and dry skin spots 
+ b) Experience Mild breakouts and dryness at the same time 
+ c) Have larger pore on nose, chin, and forehead 
+ d) Skin get oiler in summer, drier in winter 
+
+The Skin care Consultancy advise for your Skin Problem :
+•	Use the gentle facial cleanser 
+ Your skin’s surface becomes covered with dirt, excess oils, and impurities throughout the day. Make sure to use a facial cleanser that will help mattify your 
+ oily T-zone without over-drying your cheeks and under-eye area. 
+•	Hydrate your skin. 
+ Regardless of your skin type, using a moisturizer is essential to keep your skin looking and feeling healthy. 
+ For combination skin, your best bet is to opt for a moisturizer that’s hydrating while not feeling heavy or greasy.
+
+ Check the chemical contain in your Skin care product Here 
+ 
+Please enter the Skin Care product name : SimpleSkin
+Please Enter the NET Weight of the product in gram(g) : 450
+ Please enter the chemical contain in gram(g) :
+1. Alcohol (g) : 43
+2. Glucoside (g) : 13
+3. Sodium Sulfate (g) : 35
+
+********************************************
+
+Group '4' Sensitive Skin 
+Sypmtoms of the Sensitive Skin as : 
+ a) Your Skin is itchy 
+ b) You Feel Stinging and burning 
+ c) Your Skin is dry 
+ d) Get sunburn easily 
+
+The Skin care Consultancy advise for your Skin Problem :
+•	Cleanse your skin with micellar water 
+ When it comes to sensitive skin, it’s a good idea to stay away from foaming cleansers. Instead, try micellar water, a gentle, no-rinse cleansing option. 
+ Micellar water is powered by tiny micelles
+•	Never skip out on moisturizer. 
+ While you may be nervous about layering on extra skin care products if you have sensitive skin, skipping out on moisturizer shouldn’t be an option. 
+ Llightweight cream helps strengthen and repair skin barrier to help resist visible signs of aging that a weakened barrier can accentuate.
+
+ Check the chemical contain in your Skin care product Here 
+ 
+Please enter the Skin Care product name : Vaseline
+Please Enter the NET Weight of the product in gram(g) : 400
+ Please enter the chemical contain in gram(g) :
+1. Alcohol (g) : 23
+2. Perfume Serum (g) : 41
+3. Potassium Sulfate (g) : 21
+
+Print the Consultancy and percentage chemical contain of skin care product as below  : 
+
+
+				 UUM SKIN CARE CONSULTANCY SYSTEM 
+
+--------------------------------------------------------------------------------------------------------------------
+
+NAME : William
+Matric NO. : 284613
+Phone Number : 0174652300
+Email Address : william@uum.com
+--------------------------------------------------------------------------------------------------------------------
+
+Product name/Weight(g)				Chemical contain(g)				Percentage(%)
+
+--------------------------------------------------------------------------------------------------------------------
+
+Group '1' Oily Skin 
+1. Laneigh					Alcohol(g) : 51.0				10.2
+500g						Glycogen(g) : 50.0				10.0
+						Zinc Sulfate(g) : 53.0				10.6
+
+Group '2' Dry Skin 
+1. Innisfree					Alcohol(g) : 23.0				7.7
+300g						Surcose(g) : 12.0				4.0
+						Magnesium Sulfate(g) : 16.0			5.3
+
+Group '3' Mix Skin 
+1. SimpleSkin					Alcohol(g) : 43.0				9.6
+450g						Glucoside(g) : 13.0				2.9
+						Sodium Sulfate(g) : 35.0			7.8
+
+Group '4' Sensitive Skin 
+1. Vaseline					Alcohol(g) : 23.0				5.8
+400g						Perfume Serum(g) : 41.0				10.3
+						Potassium Sulfate(g) : 21.0			5.3
+
+--------------------------------------------------------------------------------------------------------------------
+
+** NOTE !! Please check your product based on the rules below : 
+
+If the Percentage is higher than >=10% The chemical contain is too high !
+• Pass 3/3 Chemical (%) : Certified product, most suitable, highly recommended;
+• Pass 2/3 Chemical (%) : Certified Product, least suitable ;
+• Pass 1/3 Chemical (%) :  NOT certified product, NOT suitable;
+• Pass 0/3 Chemical percentage : NOT Certified product, DO NOT USE !;
+
+
+********************************************************************************************************************
+
+                                          THANK YOU PLEASE COME AGAIN !!                                                  
+
